@@ -10,8 +10,9 @@
   <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
 </p>
 
-
-# 👋 Hi, I'm Pham Quang  
+<h1 align="center">
+  👋 Hi, I'm Pham Quang!
+</h1>
 
 🎓 I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
 💡 Passionate about **Machine Learning,NLP and Computer Vision**.  
