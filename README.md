@@ -1,5 +1,12 @@
-![](https://media.gifdb.com/dancing-doge-with-shades-9bdv6a1fu79lbcaf.gif)
+<h1 align="center">
+  Welcome to my GitHub! 🐾
+</h1>
 
+<p align="center">
+  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
+  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
+  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
+</p>
 
 # 👋 Hi, I'm Pham Quang  
 
