@@ -1,18 +1,21 @@
 <h1 align="center">
-  Welcome to my GitHub! 🐾
+  Welcome to My GitHub!
 </h1>
 
 <p align="center">
-  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
-  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
-  <img src="https://media.gifdb.com/dancing-doge-waving-hands-o5iz6h420lxmx2c7.gif" width="100">
+  <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
+  <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
+  <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
+  <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
+  <img src="https://raw.githubusercontent.com/PhamQuang138/PhamQuang138/main/gifs/dancing-doge-with-shades-9bdv6a1fu79lbcaf.webp" width="100" />
 </p>
+
 
 # 👋 Hi, I'm Pham Quang  
 
 🎓 I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
-💡 Passionate about **Machine Learning, Cryptography, and Game Development**.  
-🚀 Currently improving my skills in **Python, Java, and AI algorithms**.  
+💡 Passionate about **Machine Learning,NLP and Computer Vision**.  
+🚀 Currently improving my skills in **Python and AI algorithms**.  
 
 ---
 
@@ -40,9 +43,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
 ✉️ Email: duyquangv2yb@gmail.com
 
 ---
 
-![Snake animation](https://github.com/PhamQuang138/PhamQuang138/blob/output/github-contribution-grid-snake.svg)
