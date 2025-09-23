@@ -1,3 +1,6 @@
+![](https://media.gifdb.com/dancing-doge-with-shades-9bdv6a1fu79lbcaf.gif)
+
+
 # 👋 Hi, I'm Pham Quang  
 
 🎓 I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
