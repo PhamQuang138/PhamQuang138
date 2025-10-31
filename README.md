@@ -11,19 +11,17 @@
 </p>
 
 <h1 align="center">
-  👋 Hi, I'm Pham Quang!
+  Hi, I'm Pham Quang!
 </h1>
 
-🎓 I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
-💡 Passionate about **Machine Learning,NLP and Computer Vision**.  
-🚀 Currently improving my skills in **Python and AI algorithms**.  
+I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
+Passionate about **Machine Learning and Computer Vision**.  
+Currently improving my skills in **Python and AI algorithms**.  
 
 ---
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
