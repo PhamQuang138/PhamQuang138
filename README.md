@@ -13,10 +13,11 @@
 <h1 align="center">
   Hi, I'm Pham Quang!
 </h1>
+I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.
 
-I'm a 3rd-year student majoring in **Artificial Intelligence & Data Science** at **Phenikaa University**.  
-Passionate about **Machine Learning and Computer Vision**.  
-Currently improving my skills in **Python and AI algorithms**.  
+My interests focus on **Machine Learning, Computer Vision, Remote Sensing, and Geospatial Data Analysis**. I have experience working on projects involving **satellite image classification, land cover mapping, environmental monitoring, and AI-based image analysis**.
+
+Currently, I am improving my skills in **Python, machine learning algorithms, geospatial data processing, and deep learning for Earth observation applications**.
 
 ---
 
