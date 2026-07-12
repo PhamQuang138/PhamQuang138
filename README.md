@@ -111,8 +111,12 @@ A Python/FastAPI automation system for managing a Threads-to-Telegram affiliate 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PhamQuang138&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pham Quang's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuang138&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamQuang138&theme=tokyonight" alt="Pham Quang's GitHub profile summary" />
+
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhamQuang138&theme=tokyonight" alt="GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhamQuang138&theme=tokyonight" alt="Repositories by language" />
 
 <br><br>
 
