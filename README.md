@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:F107A3&height=180&section=header&text=PHAM%20QUANG&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Turning%20data%20into%20intelligent%20solutions&descSize=17&descAlignY=58" alt="Profile header" />
 
-# Hi there, I'm Pham Quang 👋
+# Hi there, I'm Pham Quang 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7B2FF7&center=true&vCenter=true&repeat=true&width=720&height=45&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision;Remote+Sensing+%7C+Geospatial+AI;Building+AI-powered+applications" alt="Typing SVG" />
@@ -22,10 +22,10 @@ I build intelligent systems that turn **images, documents, and real-world data**
 
 I'm an **Artificial Intelligence & Data Science student at Phenikaa University**, interested in building practical AI solutions at the intersection of:
 
-- 🛰️ **Remote Sensing & Geospatial AI** — satellite imagery, SAR image analysis, land-cover and environmental monitoring
-- 👁️ **Computer Vision** — image segmentation, deep learning and model ensembles
-- 🧠 **Natural Language Processing** — RAG systems, semantic search and domain-specific assistants
-- 🤖 **AI Automation** — agents, content workflows and API-based applications
+- **Remote Sensing & Geospatial AI** — satellite imagery, SAR image analysis, land-cover and environmental monitoring
+- **Computer Vision** — image segmentation, deep learning and model ensembles
+- **Natural Language Processing** — RAG systems, semantic search and domain-specific assistants
+- **AI Automation** — agents, content workflows and API-based applications
 
 I'm currently strengthening my skills in **deep learning, model evaluation, geospatial data processing, backend development, and deploying AI-powered products**.
 
@@ -43,7 +43,7 @@ An end-to-end deep learning pipeline for detecting and segmenting suspected oil 
 - Supports threshold tuning, mask post-processing and probability-map ensembles
 - Includes an interactive app for predictions, masks and visual overlays
 
-### ⚖️ [Vietnamese Pharmaceutical Law RAG Assistant](https://github.com/PhamQuang138/ChatBot)
+### [Vietnamese Pharmaceutical Law RAG Assistant](https://github.com/PhamQuang138/ChatBot)
 
 A domain-specific legal assistant for retrieving and answering questions about Vietnamese pharmaceutical law with source citations.
 
@@ -53,7 +53,7 @@ A domain-specific legal assistant for retrieving and answering questions about V
 - Provides retrieval-only and generative question-answering modes
 - Evaluates context relevance, groundedness and answer relevance
 
-### 🚗 [CarHub Garage](https://github.com/PhamQuang138/KTPM_ProjectX)
+### [CarHub Garage](https://github.com/PhamQuang138/KTPM_ProjectX)
 
 A full-stack automotive community platform combining social features, personal garages, a vehicle marketplace and AI-assisted vehicle discovery.
 
@@ -63,7 +63,7 @@ A full-stack automotive community platform combining social features, personal g
 - Includes authentication, community posts, vehicle listings and personal garage management
 - Supports natural-language vehicle search and image-based vehicle recognition
 
-### 🤖 [Threads → Telegram Affiliate Agent](https://github.com/PhamQuang138/Telegram-Agent-for-affiliate-on-Threads)
+### [Threads → Telegram Affiliate Agent](https://github.com/PhamQuang138/Telegram-Agent-for-affiliate-on-Threads)
 
 A Python/FastAPI automation system for managing a Threads-to-Telegram affiliate funnel.
 
@@ -77,9 +77,9 @@ A Python/FastAPI automation system for managing a Threads-to-Telegram affiliate 
 <summary><b>More projects</b></summary>
 <br>
 
-- 🧮 [Deep Learning from Scratch](https://github.com/PhamQuang138/GK_deep) — NumPy implementation of a U-Net-inspired encoder-decoder for SAR oil-spill segmentation
-- 🗺️ [Delivery Route Optimization](https://github.com/PhamQuang138/GreedyBest-FirstSearch) — Greedy Best-First Search and A* applied to delivery routing
-- 🔐 [Text Encryption](https://github.com/PhamQuang138/MaHoa) — Python application demonstrating fundamental text-encryption methods
+- [Deep Learning from Scratch](https://github.com/PhamQuang138/GK_deep) — NumPy implementation of a U-Net-inspired encoder-decoder for SAR oil-spill segmentation
+- [Delivery Route Optimization](https://github.com/PhamQuang138/GreedyBest-FirstSearch) — Greedy Best-First Search and A* applied to delivery routing
+- [Text Encryption](https://github.com/PhamQuang138/MaHoa) — Python application demonstrating fundamental text-encryption methods
 
 </details>
 
@@ -120,7 +120,7 @@ A Python/FastAPI automation system for managing a Threads-to-Telegram affiliate 
 
 <br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=PhamQuang138&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=PhamQuang138&theme=tokyonight&hide_border=true&disable_animations=true&v=2" alt="GitHub contribution streak" />
 
 <br><br>
 
@@ -138,7 +138,7 @@ I'm open to **AI/ML collaborations, research projects, internships, and interest
 
 <div align="center">
 
-_Thanks for visiting — feel free to explore my repositories!_ 🚀
+_Thanks for visiting — feel free to explore my repositories!_ 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F107A3,50:7B2FF7,100:00C9FF&height=110&section=footer" alt="Profile footer" />
 
